@@ -72,6 +72,8 @@ The UI design uses high-contrast, functionally color-coded elements designed for
 | **Safe / Success Green**| `#4CAF50` | Verified status, safe route paths, active backup indicators |
 
 ---
+**Team Member & Collaborator: Anushka Singh 
+Co-designed the RES-Q UI/UX workflow and system architecture.
 
 ## 📁 Repository Structure
 
