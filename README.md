@@ -78,10 +78,10 @@ The UI design uses high-contrast, functionally color-coded elements designed for
 ```micro
 RES-Q-Figma-UI/
 ├── assets/
-│   ├── home_dashboard.png
-│   ├── continuous_analysis.png
-│   ├── location_incident_tracker.png
-│   └── safe_evacuation_route.png
+│   ├── ResQ home page.png
+│   ├── Landslide analysis.png
+│   ├── ResQ Safe Evacuation route.png
+│   └── ResQ location.png
 ├── Figma/
 │   └── RES_Q_Landslide_System.fig
 └── README.md
