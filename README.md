@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Over view
 
 Landslides are rapid, highly destructive disasters that often leave minimal response time. **RES-Q** addresses this critical challenge through a two-fold approach:
 1. **Pre-Disaster Monitoring & Early Warning:** Continuously analyzing slope stability, moisture levels, and geological strain via live spatial data and automated SMS dispatch.
